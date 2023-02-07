@@ -1,0 +1,9 @@
+v = 5:13
+print(v)
+v = 6.6:12.6
+print(v)
+v = 3.8:11.4
+print(v)
+print(seq(5,9, by = 0.4))
+s = c('apple', 'red',5,TRUE)
+print(s)
